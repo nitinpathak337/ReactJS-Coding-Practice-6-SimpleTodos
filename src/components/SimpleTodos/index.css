@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  min-height: 100vh;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  align-items: center;
+  padding: 20px;
+  border-radius: 12px;
+  width: 75%;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+.list-container {
+  font-family: 'Roboto';
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-self: center;
+}

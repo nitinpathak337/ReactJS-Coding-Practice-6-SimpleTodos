@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-item {
+  width: 100%;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+.para {
+  font-size: 25px;
+  color: black;
+  margin-right: 30px;
+}
+.btn {
+  margin-left: 50px;
+  background-color: white;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 12px;
+  width: 80px;
+  height: 35px;
+}
